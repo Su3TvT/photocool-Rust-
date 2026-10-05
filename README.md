@@ -1,7 +1,7 @@
 # 📸 PhotoCool - 高效能本地照片去重與相似分類工具
 
-[![Latest Release](https://img.shields.io/github/v/release/Su3TvT/photocool-Rust-?label=Download%20PhotoCool.exe&color=brightgreen)]([https://github.com/Su3TvT/photocool-Rust-/releases/latest](https://github.com/Su3TvT/photocool-Rust-/releases/tag/%E5%84%AA%E5%8C%96%E6%80%A7%E8%83%BD))
-[![Platform](https://img.shields.io/badge/Platform-Windows%20x64-blue.svg)](https://github.com/Su3TvT/photocool-Rust-/releases)
+[![Latest Release](https://img.shields.io/github/v/release/username/PhotoCool?label=Download%20PhotoCool.exe&color=brightgreen)](https://github.com/username/PhotoCool/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20x64-blue.svg)](https://github.com/username/PhotoCool/releases)
 
 > **[Note / 說明]** 
 > 本專案目前僅提供 Windows 預編譯版本（`.exe` 發布檔），源碼暫不開源。
