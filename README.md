@@ -60,6 +60,8 @@
 - **命令行啟動**：
   ```cmd
   PhotoCool.exe "D:\Your\Photo\Path"
+
+---
 🔒 隱私與安全 (Privacy & Security)
 100% 本地運算：所有特徵提取與檔案處理均在你的電腦本地完成，絕不上傳任何圖片或數據至雲端[cite: 2]。
 
